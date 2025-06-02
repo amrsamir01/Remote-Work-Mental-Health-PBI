@@ -35,23 +35,6 @@ This Power BI project analyzes the impact of remote work on employees' mental he
 
 ---
 
-## 📁 Files Included
-
-| File Name                                   | Description                            |
-|--------------------------------------------|----------------------------------------|
-| `Impact_of_Remote_Work_on_Mental_Health.pbix` | Main Power BI dashboard file           |
-| `dashboard-preview.png`                    | Static preview of the dashboard layout |
-
----
-
-## 🚀 How to Use
-
-1. Download or clone this repository.
-2. Open `Impact_of_Remote_Work_on_Mental_Health.pbix` in [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
-3. Interact with the filters and visuals to explore insights.
-
----
-
 ## 📌 Tools Used
 
 - **Power BI Desktop**
