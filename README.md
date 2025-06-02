@@ -5,6 +5,7 @@ This Power BI project analyzes the impact of remote work on employees' mental he
 ---
 
 ## 📊 Dashboard Preview
+![Remote Work and Mental Health](https://github.com/user-attachments/assets/43322950-bace-4386-b0f6-801503c7e365)
 
 ![Dashboard Preview](dashboard-preview.png)
 
